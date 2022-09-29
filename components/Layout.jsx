@@ -26,7 +26,9 @@ const Layout = ({ children }) => {
         {children}
       </main>
       <footer>
+        <br></br>
         <Facebook1/>
+        <br></br>
 
         <Footer />
       </footer>
